@@ -1082,7 +1082,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps2001c.pdf?ts=1743440609763&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS2001C%252Fpart-details%252FTPS2001CDGNR"
-			(at 0 0 0)
+			(at 20.574 19.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1221,7 +1221,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 0 -7.62 0)
 				(length 7.62)
 				(name "EN"
@@ -1239,7 +1239,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 55.88 0 180)
 				(length 7.62)
 				(name "EPAD"
@@ -1311,7 +1311,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 55.88 -10.16 180)
 				(length 7.62)
 				(name "*FLT"
