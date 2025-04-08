@@ -72,23 +72,13 @@
 	)
 	(fp_line
 		(start -6.35 -1.3)
-		(end -6.35 7.1)
+		(end -6.35 0)
 		(stroke
 			(width 0.2)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "3ed100ce-e50c-4540-853c-41577b41d990")
-	)
-	(fp_line
-		(start -6.35 7.1)
-		(end 6.35 7.1)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "bc603c94-f947-4518-a696-4b34668598bf")
 	)
 	(fp_line
 		(start 6.35 -7.1)
@@ -101,7 +91,7 @@
 		(uuid "707aae26-a2f9-41e4-b49d-2e06863df628")
 	)
 	(fp_line
-		(start 6.35 7.1)
+		(start 6.35 0)
 		(end 6.35 -1.3)
 		(stroke
 			(width 0.2)
@@ -437,7 +427,7 @@
 	(embedded_fonts no)
 	(model "C:/git/kicad_library/models/61400416021.step"
 		(offset
-			(xyz 0 4.5 3)
+			(xyz 0 4.5 3.5)
 		)
 		(scale
 			(xyz 1 1 1)
